@@ -14,6 +14,13 @@ public class Lista {
     root = n;
 }
 
+    public void remove(String s){
+
+    }
+    public boolean exsist(String s){
+        return true;
+    }
+
     public Lista(){
         root = null;
     }
